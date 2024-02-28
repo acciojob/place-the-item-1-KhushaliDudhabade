@@ -12,7 +12,7 @@
 	
 }
 
-#holder{
+.holder{
 	width:vw;
 	height:vh;
 	display:flex;
